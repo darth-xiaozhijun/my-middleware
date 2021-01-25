@@ -1,0 +1,11 @@
+/server/target/classes/application.properties
+/server/target/classes/com/geekshow/server/entity/Book.class
+/server/target/classes/com/geekshow/server/controller/BookController.class
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/server/target/classes/com/geekshow/server/MainApplication.class
+/middleware
+/.idea/misc.xml
+/server/target/classes/mybatis-config.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
