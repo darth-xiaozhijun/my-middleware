@@ -9,3 +9,13 @@
 /server/target/classes/mybatis-config.xml
 /.idea/uiDesigner.xml
 /.idea/vcs.xml
+/server/target/classes/com/geekshow/server/config/CommonConfig.class
+/server/target/classes/log4j.properties
+/server/middleware.0
+/server/middleware.1
+/server/middleware.2
+/server/middleware.3
+/server/middleware.4
+/server/target/test-classes/com/geekshow/server/config/RedisTest.class
+/server/target/test-classes/META-INF/server.kotlin_module
+/server/target/test-classes/com/geekshow/server/config/entity/User.class
